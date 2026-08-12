@@ -40,7 +40,7 @@ typedef struct {
 } ControlPacket;
 
 ControlPacket packet;
-uint8_t receiverMac[] = {0x4C, 0xC3, 0x82, 0xCC, 0xA5, 0x4C};
+uint8_t receiverMac[] = {0xXX, 0xXX, 0xXX, 0xXX, 0xXX, 0xXX};
 
 void setup() {
   Serial.begin(115200);
