@@ -6,7 +6,7 @@ The project combines custom mechanical design, iterative 3D printing, embedded C
 
 All major mechanical components were designed in Autodesk Fusion 360 based on my original 2D concepts and developed through multiple physical prototypes.
 
-![Animatronic Robot Head](media/final_build/robot_head_final.jpg)
+![Animatronic Robot Head](media/final_build/robot_and_remote_final.jpg)
 
 ## Demo
 
