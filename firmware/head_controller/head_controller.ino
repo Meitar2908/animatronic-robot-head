@@ -41,9 +41,6 @@ Adafruit_PWMServoDriver pwm = Adafruit_PWMServoDriver();
 #define ANT_OFF   100
 #define ANT_ON    500
 
-// const int ANTENNA_PIN = 4;
-// Servo AntennaServo;
-
 typedef struct {
   uint16_t eyeX;
   uint16_t eyeY;
@@ -87,8 +84,6 @@ void setup() {
   Wire.begin(21, 22);    // ESP32 defaults
   pwm.begin();
   pwm.setPWMFreq(50);    // 50 Hz servos
-
-  // AntennaServo.attach(ANTENNA_PIN);
 
 }
 
