@@ -10,4 +10,4 @@ All major mechanical components were designed in Autodesk Fusion 360 based on my
 
 ## Demo
 
-[Watch the robot in operation](https://drive.google.com/file/d/1-YQeO1IAPdf64mDMB-wvr5QqqcVOUGBm/view?usp=sharing)
+[Watch the robot in operation]([YOUR_VIDEO_LINK](https://drive.google.com/file/d/1-YQeO1IAPdf64mDMB-wvr5QqqcVOUGBm/view?usp=sharing))
