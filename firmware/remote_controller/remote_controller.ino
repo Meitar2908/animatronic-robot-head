@@ -1,3 +1,11 @@
+/*
+ * Animatronic Robot Head
+ * Remote Controller
+ *
+ * Reads joystick and antenna control inputs and sends commands
+ * wirelessly to the robot head using ESP-NOW.
+ */
+
 #include <esp_now.h>
 #include <WiFi.h>
 
