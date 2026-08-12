@@ -2,7 +2,7 @@
 
 The complete mechanical system was designed in Autodesk Fusion 360.
 
-This directory contains selected renders of the mechanical design.
+This directory contains selected renders of the mechanical design of the robot head and remote controller.
 
 The project includes custom mechanisms for:
 
