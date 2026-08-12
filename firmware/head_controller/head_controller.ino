@@ -1,3 +1,12 @@
+/*
+ * Animatronic Robot Head
+ * Head Controller
+ *
+ * Receives wireless control commands from the handheld ESP32 remote
+ * using ESP-NOW and controls the head's servo mechanisms through a
+ * PCA9685 PWM controller.
+ */
+
 #include <esp_now.h>
 #include <WiFi.h>
 #include <Wire.h>
