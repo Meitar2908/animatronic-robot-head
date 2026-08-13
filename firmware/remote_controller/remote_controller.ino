@@ -40,7 +40,11 @@ typedef struct {
 } ControlPacket;
 
 ControlPacket packet;
-uint8_t receiverMac[] = {0xXX, 0xXX, 0xXX, 0xXX, 0xXX, 0xXX};
+
+// Replace with the MAC address of the head-controller ESP32
+uint8_t receiverMac[] = {
+  0x00, 0x00, 0x00, 0x00, 0x00, 0x00
+};
 
 void setup() {
   Serial.begin(115200);
