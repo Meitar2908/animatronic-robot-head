@@ -127,7 +127,7 @@ The mechanism was developed and packaged as a compact removable assembly that ca
 
 The basic mechanism concept was informed by existing animatronic eye mechanisms I studied, while the CAD geometry, packaging, mechanical implementation, and integration into this project were designed independently.
 
-![Eye Mechanism CAD](media/cad/eye_mechanism_1_cad.png)
+![Eye Mechanism CAD](media/cad/eye_mechanism_2_cad.png)
 
 ![Final Eye Mechanism](media/final_build/eye_mechanism.jpg)
 
