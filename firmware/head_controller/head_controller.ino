@@ -11,7 +11,6 @@
 #include <WiFi.h>
 #include <Wire.h>
 #include <Adafruit_PWMServoDriver.h>
-#include <ESP32Servo.h>
 
 
 // PCA9685
