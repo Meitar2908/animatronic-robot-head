@@ -11,3 +11,9 @@ All major mechanical components were designed in Autodesk Fusion 360 based on my
 ## Demo
 
 [▶ Watch the robot in operation](https://drive.google.com/file/d/1-YQeO1IAPdf64mDMB-wvr5QqqcVOUGBm/view?usp=sharing)
+
+## System Architecture
+
+The system uses a custom handheld ESP32 controller communicating wirelessly with the robot head via ESP-NOW at approximately 50 Hz.
+
+![System Architecture](docs/system_architecture.png)
