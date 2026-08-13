@@ -164,7 +164,7 @@ It contains:
 
 The ESP32 reads the user inputs, applies the required processing and filtering, creates the control packet, and transmits it wirelessly to the head using ESP-NOW.
 
-![Remote Controller CAD](media/cad/remote_cad.png)
+![Remote Controller CAD](media/cad/remote_controller_cad.png)
 
 ![Remote Controller Internal](media/final_build/remote_controller_internal.jpg)
 
