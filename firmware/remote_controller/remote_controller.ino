@@ -66,10 +66,10 @@ void loop() {
   packet.eyeX = analogRead(EYE_X_PIN);
   packet.eyeY = analogRead(EYE_Y_PIN);
 
-  // Teeth smoothing logic [cite: 11]
+  // Teeth smoothing logic
   int rawTeeth = analogRead(TEETH_Y_PIN);
   smoothTeeth = smoothTeeth * 0.7f + rawTeeth * 0.3f;
-  if (smoothTeeth > 2048) smoothTeeth = 2048; // [cite: 12]
+  if (smoothTeeth > 2048) smoothTeeth = 2048;
   packet.teethY = (uint16_t)smoothTeeth;
 
   // The interrupt updates this value automatically in the background
